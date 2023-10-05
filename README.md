@@ -5,9 +5,9 @@
      
      - Destop Framework: PyQT, Tkinter, Winform.NET
      
-     - AI: CNN, RNN, LTSM, Prompting API LLM
+     - AI: CNN, RNN, LTSM, Prompting API LLM, ...
      
-     - Database: MySQL, SQL Server, MongoDB
+     - Database: MySQL, SQL Server, MongoDB, ...
 </br>
 
 <br>
