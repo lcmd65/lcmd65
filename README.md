@@ -1,4 +1,11 @@
-### Hi there 👋
+<br>
+  My stech stack:
+     - Web Framework: Flask, Django, FastAPI
+     - Destop Framework: PyQT, Tkinter, Winform.NET
+     - AI: CNN, RNN, LTSM, Prompting API LLM
+     - Database: MySQL, SQL Server, MongoDB
+    
+</br
 
 <br>
 
