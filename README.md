@@ -13,7 +13,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcmd65&layout=compact&theme=radical&hide=scss,stylus,blade,jupyter)](https://github.com/lcmd65/github-readme-stats)
+[![Most language script used](https://github-readme-stats.vercel.app/api/top-langs/?username=lcmd65&layout=compact&theme=radical&hide=scss,stylus,blade,jupyter)](https://github.com/lcmd65/github-readme-stats)
 
 </br>
 
