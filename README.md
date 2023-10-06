@@ -11,9 +11,6 @@
 </br>
 
 <div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcmd65&layout=compact&theme=tokyonight&hide=html,css,tex,scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile,typescript)](https://github.com/lcmd65/github-readme-stats)
 
 </div>
