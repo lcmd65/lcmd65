@@ -19,6 +19,6 @@
 
 <br>
 
-[![lcmd65's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=lcmd65&hide=tex,scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/lcmd65)
+[![lcmd65's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=lcmd65&hide=html, css, tex,scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/lcmd65)
 
 </br>
