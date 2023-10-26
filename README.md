@@ -8,7 +8,7 @@
        - Database: MySQL, SQL Server, MongoDB, ...
          
        - AI: Machine Learning, CNN, RNN, LTSM, Prompting API LLM, ... 
-       (I'm strong understand timeseries, forecasting models, preprocessing as ACF, PACF, decomposition,...)
+       (I'm strong understand timeseries, forecasting models, preprocessing analyst method as ACF, PACF, decomposition,...)
        
        - I'm strong in optimization algorithm, moderation, logistics algorithm 
        as beam search, tabu search, and other GA.
