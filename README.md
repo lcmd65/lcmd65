@@ -1,6 +1,10 @@
 
   <p align='center'>
   💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+  <img src=" https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <p>Language
     
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -17,6 +21,7 @@
   <img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   </p>
+
    <br align='center'>
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcmd65&layout=compact&theme=tokyonight&hide=html,purebasic,tex,scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile,typescript)](https://github.com/lcmd65/github-readme-stats)
